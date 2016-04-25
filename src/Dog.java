@@ -1,7 +1,7 @@
 
 public class Dog extends Pet {
 	public String bark() {
-		return "wangwangwang";
+		return "wangwang ";
 
 	}
 	public void lookDoor(){
